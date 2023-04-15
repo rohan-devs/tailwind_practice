@@ -27,7 +27,7 @@ body {
 } */
  @layer base{
   html{
-  @apply bg-slate-500 text-white text-3xl font-mono mb-1;
+  @apply bg-slate-500 text-white text-3xl font-mono mb-1 ;
   }
   a{
     @apply underline text-blue-300 hover:text-purple-400 transition decoration-wavy

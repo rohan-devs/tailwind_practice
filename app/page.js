@@ -14,7 +14,7 @@ Lorem ipsum dolor, sit amet consectetur adipisicing elit. Fugiat, repellat iure.
 <p className='text-lg mb-2'>riuvnurwnuicfnwiuo</p>
 <p>Lorem ipsum dolor sit amet consectetur.
 </p>
-<div className="bg-[#bada55]">
+<div className="bg-[#bada55] overflow-scroll">
   worinio3rnfio3nrwiofni3nf
   <p className='mb-5'>iwncwrinciown</p>
   wirncwri
@@ -66,7 +66,7 @@ Hello
     <div className="w-full bg-slate-700 text-center">2b</div>
     <div className="w-full bg-slate-800 text-center">3b</div>
   </div>
-   <div className='flex bg-red-500 uppercase justify-evenly items-center  '>
+   <div className='flex bg-red-500 uppercase justify-evenly items-center overflow-scroll  '>
     <p className=''>i am at the center bro </p>
     <p>i am at the center bro
       <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente, autem neque ullam voluptatum consectetur nobis corrupti saepe impedit recusandae molestiae vel distinctio enim iusto molestias quos sit, magni similique architecto inventore doloremque consequuntur totam? Vero repudiandae unde corporis. Dolor corrupti hic iste quas dignissimos! Praesentium.</p> </p>
@@ -87,7 +87,7 @@ Hello
   Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eos, recusandae! Ipsam quibusdam, velit natus delectus inventore deserunt qui. Aliquam ipsam odit perferendis numquam quisquam nemo culpa nulla, nam quaerat unde. Dicta officiis natus eaque aspernatur, velit reprehenderit animi recusandae, obcaecati molestiae hic necessitatibus corrupti omnis nisi, accusantium nemo. Quidem deserunt rem amet praesentium, architecto accusamus aperiam aspernatur asperiores quia porro voluptate, et veritatis modi, nisi blanditiis quos nostrum quam voluptates non provident. Distinctio porro ea nisi doloribus, voluptate corporis vel error, laboriosam enim odio impedit animi consequatur voluptatum. Labore beatae asperiores provident quisquam iure molestias, dicta incidunt odio animi rerum?
   </p>
 </div>
-<div className="container flex">
+<div className="container flex overflow-scroll">
 <div class="z-40 bg-red-400 rounded-full border border-white p-8 ">05</div>
 <div class="z-30 bg-red-400 rounded-full border border-white p-8 ">04</div>
 <div class="z-20 bg-red-400 rounded-full border border-white p-8 ">03</div>
