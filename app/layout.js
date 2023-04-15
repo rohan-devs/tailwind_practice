@@ -1,8 +1,8 @@
 import './globals.css'
 
 export const metadata = {
-  title: 'tailwind seekhenge aaj toth',
-  description: 'kya bolti publiccccc',
+  title: 'learning tailwind',
+  description: 'global styles',
 }
 
 export default function RootLayout({ children }) {
