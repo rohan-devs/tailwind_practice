@@ -28,7 +28,7 @@ Lorem ipsum dolor, sit amet consectetur adipisicing elit. Fugiat, repellat iure.
   </p>
   <p className="bg-[#B9EDDD] text-center hover:bg-[#87CBB9]">I am hoverable brooo</p>
 <p className="italic">i am italic</p>
-<p className="line-through">i am muslim(katwa)</p>
+<p className="line-through">i am cutting</p>
 <p className="overline">overline test</p>
 <p className="underline decoration-slate-400 decoration-wavy decoration-8 underline-offset-8 mb-4 pb-3 lowercase">underline with text decorUEHFUWation</p>
 <p className="underline decoration-slate-400 decoration-wavy decoration-8 underline-offset-8 mb-4 pb-3 uppercase">underline with text decorUEHFUWation</p>
